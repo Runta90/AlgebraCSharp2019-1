@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{31F30331-D9D7-4529-9C4C-B096F2654F21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uvodni", "ConsoleApp1\Uvodni.csproj", "{31F30331-D9D7-4529-9C4C-B096F2654F21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zbroj", "Zbroj\Zbroj.csproj", "{F5BB3841-E0F6-4B76-997F-75977E9F311A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1_Uvod", "4.1_Uvod", "{47C8FBEF-DEB9-4DE0-AB74-674523F2EF1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj", "{EC837AF1-10C5-46BD-8DA5-8D31482A1705}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +21,19 @@ Global
 		{31F30331-D9D7-4529-9C4C-B096F2654F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31F30331-D9D7-4529-9C4C-B096F2654F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31F30331-D9D7-4529-9C4C-B096F2654F21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5BB3841-E0F6-4B76-997F-75977E9F311A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BB3841-E0F6-4B76-997F-75977E9F311A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BB3841-E0F6-4B76-997F-75977E9F311A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BB3841-E0F6-4B76-997F-75977E9F311A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC837AF1-10C5-46BD-8DA5-8D31482A1705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC837AF1-10C5-46BD-8DA5-8D31482A1705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC837AF1-10C5-46BD-8DA5-8D31482A1705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC837AF1-10C5-46BD-8DA5-8D31482A1705}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EC837AF1-10C5-46BD-8DA5-8D31482A1705} = {47C8FBEF-DEB9-4DE0-AB74-674523F2EF1B}
 	EndGlobalSection
 EndGlobal
