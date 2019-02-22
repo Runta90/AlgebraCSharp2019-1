@@ -25,6 +25,7 @@ namespace zbroj_razlika
             Console.WriteLine("Umnožak: {0}, Kvocijent: {1}", a * b, (float)a / (float)b);
 
             Console.ReadLine();
+
         }
     }
 }
