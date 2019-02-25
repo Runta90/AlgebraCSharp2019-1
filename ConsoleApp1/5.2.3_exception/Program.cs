@@ -39,16 +39,20 @@ namespace _5._2._3_exception
 
 
 
-
+            catch (Exception ex)
+            {
+                Console.WriteLine("GREŠKA: generička" + ex.Message);
+            }
             catch (FormatException fex)
             {
                 Console.WriteLine("GREŠKA, pogrešan format:" + fex.Message);
 
-
             }
-        
-
-            Console.ReadKey();
+            finally
+       
+            {
+                Console.ReadKey();
+            }
 
         }
     }
