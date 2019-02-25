@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pozitivan_i_negativan_broj"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.1.2_pozitivan", "5.2.1.2_pozitivan\5.2.1.2_pozitivan.csproj", "{7F3D75A6-8698-45CF-B344-3547CC12FAF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.2_switch", "5.2.2_switch\5.2.2_switch.csproj", "{697EEA83-4F42-438D-A6AB-94DC83B5886D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{7F3D75A6-8698-45CF-B344-3547CC12FAF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F3D75A6-8698-45CF-B344-3547CC12FAF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F3D75A6-8698-45CF-B344-3547CC12FAF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697EEA83-4F42-438D-A6AB-94DC83B5886D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697EEA83-4F42-438D-A6AB-94DC83B5886D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697EEA83-4F42-438D-A6AB-94DC83B5886D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697EEA83-4F42-438D-A6AB-94DC83B5886D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,5 +80,6 @@ Global
 		{6DAF971B-2BDA-48A3-A50A-F9E339A7DDED} = {9FE82CE9-44BA-4B35-9A4C-672A12E57305}
 		{2094E644-25D7-4277-9205-B2FA568277B2} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
 		{7F3D75A6-8698-45CF-B344-3547CC12FAF2} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
+		{697EEA83-4F42-438D-A6AB-94DC83B5886D} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
 	EndGlobalSection
 EndGlobal
