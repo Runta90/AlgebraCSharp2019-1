@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.2_uvjetno_granjanje", "5.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pozitivan_i_negativan_broj", "pozitivan_i_negativan_broj\pozitivan_i_negativan_broj.csproj", "{2094E644-25D7-4277-9205-B2FA568277B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.1.2_pozitivan", "5.2.1.2_pozitivan\5.2.1.2_pozitivan.csproj", "{7F3D75A6-8698-45CF-B344-3547CC12FAF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{2094E644-25D7-4277-9205-B2FA568277B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2094E644-25D7-4277-9205-B2FA568277B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2094E644-25D7-4277-9205-B2FA568277B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3D75A6-8698-45CF-B344-3547CC12FAF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3D75A6-8698-45CF-B344-3547CC12FAF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3D75A6-8698-45CF-B344-3547CC12FAF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3D75A6-8698-45CF-B344-3547CC12FAF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,5 +73,6 @@ Global
 		{5F9CF5D8-72EF-4BD8-B1AF-2C59C84AC98E} = {47C8FBEF-DEB9-4DE0-AB74-674523F2EF1B}
 		{6DAF971B-2BDA-48A3-A50A-F9E339A7DDED} = {9FE82CE9-44BA-4B35-9A4C-672A12E57305}
 		{2094E644-25D7-4277-9205-B2FA568277B2} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
+		{7F3D75A6-8698-45CF-B344-3547CC12FAF2} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
 	EndGlobalSection
 EndGlobal
