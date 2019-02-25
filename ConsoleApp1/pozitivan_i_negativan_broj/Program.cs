@@ -15,7 +15,7 @@ namespace pozitivan_i_negativan_broj
 
             if (broj > 0)
             {
-                Console.Writeline("Broj je pozitivan");
+                Console.WriteLine("Broj je pozitivan");
             }
 
             else
