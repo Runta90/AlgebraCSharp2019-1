@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.3_exception", "5.2.3_ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.4.2_primjer_direktor", "5.2.4.2_primjer_direktor\5.2.4.2_primjer_direktor.csproj", "{E8D0F2A9-7CF7-49A4-91DA-09DB323ADEEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak_5.2.3_Veliki_broj", "zadatak_5.2.3_Veliki_broj\zadatak_5.2.3_Veliki_broj.csproj", "{45E820C5-87C3-4B9B-BE6C-A9ADC5B327C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{E8D0F2A9-7CF7-49A4-91DA-09DB323ADEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8D0F2A9-7CF7-49A4-91DA-09DB323ADEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8D0F2A9-7CF7-49A4-91DA-09DB323ADEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E820C5-87C3-4B9B-BE6C-A9ADC5B327C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E820C5-87C3-4B9B-BE6C-A9ADC5B327C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E820C5-87C3-4B9B-BE6C-A9ADC5B327C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E820C5-87C3-4B9B-BE6C-A9ADC5B327C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,5 +101,6 @@ Global
 		{697EEA83-4F42-438D-A6AB-94DC83B5886D} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
 		{AE361D92-713A-42C2-8BBA-2D6922BCFEEF} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
 		{E8D0F2A9-7CF7-49A4-91DA-09DB323ADEEB} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
+		{45E820C5-87C3-4B9B-BE6C-A9ADC5B327C6} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
 	EndGlobalSection
 EndGlobal
