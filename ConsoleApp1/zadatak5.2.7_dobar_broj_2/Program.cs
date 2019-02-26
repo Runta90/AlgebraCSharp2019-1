@@ -11,10 +11,19 @@ namespace zadatak5._2._7_dobar_broj_2
         static void Main(string[] args)
         {
             Console.Write("Unesite cijeli broj:");
+            int broj = 0;
+            try
 
-            int a = int.Parse(Console.ReadLine());
+            {
+             broj = int.Parse(Console.ReadLine());
+            }
 
-            if (a % 4 == 0 || a >= 100)
+            catch(Exception e)
+            {
+                Console.WriteLine(e.ToString());
+            }
+
+            if (broj % 4 == 0 && broj >= 100)
             {
                 Console.Write("Broj je dobar");
             }
