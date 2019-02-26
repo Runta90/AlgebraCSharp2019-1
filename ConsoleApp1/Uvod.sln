@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak_5.2.4_x_znamenkasti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak_5.2.5_u_intervalu", "zadatak_5.2.5_u_intervalu\zadatak_5.2.5_u_intervalu.csproj", "{5C809FD5-8936-4614-9656-1E9C161761C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak_5.2.6_dobar_broj_1", "zadatak_5.2.6_dobar_broj_1\zadatak_5.2.6_dobar_broj_1.csproj", "{8B98D937-B65E-4900-82B0-A4F06D6E7476}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{5C809FD5-8936-4614-9656-1E9C161761C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C809FD5-8936-4614-9656-1E9C161761C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C809FD5-8936-4614-9656-1E9C161761C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B98D937-B65E-4900-82B0-A4F06D6E7476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B98D937-B65E-4900-82B0-A4F06D6E7476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B98D937-B65E-4900-82B0-A4F06D6E7476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B98D937-B65E-4900-82B0-A4F06D6E7476}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -116,5 +122,6 @@ Global
 		{45E820C5-87C3-4B9B-BE6C-A9ADC5B327C6} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
 		{BA692E28-FA1E-42A8-AFAC-2D78E4B81441} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
 		{5C809FD5-8936-4614-9656-1E9C161761C4} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
+		{8B98D937-B65E-4900-82B0-A4F06D6E7476} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
 	EndGlobalSection
 EndGlobal
