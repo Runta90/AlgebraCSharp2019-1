@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak_5.2.5_u_intervalu",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak_5.2.6_dobar_broj_1", "zadatak_5.2.6_dobar_broj_1\zadatak_5.2.6_dobar_broj_1.csproj", "{8B98D937-B65E-4900-82B0-A4F06D6E7476}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak5.2.7_dobar_broj_2", "zadatak5.2.7_dobar_broj_2\zadatak5.2.7_dobar_broj_2.csproj", "{365A7342-73FA-45B6-AF5E-33A4475E6D89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{8B98D937-B65E-4900-82B0-A4F06D6E7476}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B98D937-B65E-4900-82B0-A4F06D6E7476}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B98D937-B65E-4900-82B0-A4F06D6E7476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365A7342-73FA-45B6-AF5E-33A4475E6D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365A7342-73FA-45B6-AF5E-33A4475E6D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365A7342-73FA-45B6-AF5E-33A4475E6D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365A7342-73FA-45B6-AF5E-33A4475E6D89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -123,5 +129,6 @@ Global
 		{BA692E28-FA1E-42A8-AFAC-2D78E4B81441} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
 		{5C809FD5-8936-4614-9656-1E9C161761C4} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
 		{8B98D937-B65E-4900-82B0-A4F06D6E7476} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
+		{365A7342-73FA-45B6-AF5E-33A4475E6D89} = {060BBB5B-D87C-4507-B639-1CEBBD0FC2E4}
 	EndGlobalSection
 EndGlobal
