@@ -23,6 +23,7 @@ namespace zadatak_5._2._3_Veliki_broj
                 Console.WriteLine("Broj NIJE velik.");
             }
             Console.ReadKey();
+
         }
     }
 }
