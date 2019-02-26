@@ -28,9 +28,12 @@ namespace zadatak5._2._9_cjelobrojno_djeljenje
 
                 else
                 {
-                    Console.WriteLine("Broj {0} nije djeljiv sa 3, ostatak je {1}", broj, (broj % 3))
+                    Console.WriteLine("Broj {0} nije djeljiv sa 3, ostatak je {1}", broj, (broj % 3));
                 }
+
             }
+
+
 
             catch (Exception e)
             {
