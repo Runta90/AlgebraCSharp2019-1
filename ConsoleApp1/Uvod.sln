@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak5.3.9_djeljitelji", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak5.3.11_savrseni_brojevi", "zadatak5.3.11_savrseni_brojevi\zadatak5.3.11_savrseni_brojevi.csproj", "{ED4BC764-D6C0-4F2A-AD54-8915E3133078}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak5.3.13_min_max", "zadatak5.3.13_min_max\zadatak5.3.13_min_max.csproj", "{677735DE-2F48-4DA2-9CD5-57C3DF90A9BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,10 @@ Global
 		{ED4BC764-D6C0-4F2A-AD54-8915E3133078}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED4BC764-D6C0-4F2A-AD54-8915E3133078}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED4BC764-D6C0-4F2A-AD54-8915E3133078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677735DE-2F48-4DA2-9CD5-57C3DF90A9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677735DE-2F48-4DA2-9CD5-57C3DF90A9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677735DE-2F48-4DA2-9CD5-57C3DF90A9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677735DE-2F48-4DA2-9CD5-57C3DF90A9BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -195,5 +201,6 @@ Global
 		{DDCCB217-939C-4E8C-9C18-3C5BCEB95676} = {B7ADAFB4-4FD8-471D-A26A-8C72AAEFA86E}
 		{3FC80168-7489-4B8C-B8B3-5F8196F40F59} = {B7ADAFB4-4FD8-471D-A26A-8C72AAEFA86E}
 		{ED4BC764-D6C0-4F2A-AD54-8915E3133078} = {B7ADAFB4-4FD8-471D-A26A-8C72AAEFA86E}
+		{677735DE-2F48-4DA2-9CD5-57C3DF90A9BF} = {B7ADAFB4-4FD8-471D-A26A-8C72AAEFA86E}
 	EndGlobalSection
 EndGlobal
