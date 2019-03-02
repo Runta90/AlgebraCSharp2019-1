@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak5.3.11_savrseni_broj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak5.3.13_min_max", "zadatak5.3.13_min_max\zadatak5.3.13_min_max.csproj", "{677735DE-2F48-4DA2-9CD5-57C3DF90A9BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadaca5.3.8_7_3_koliko", "zadaca5.3.8_7_3_koliko\zadaca5.3.8_7_3_koliko.csproj", "{D19B65A9-95F2-4DCC-879E-DB5E7B64CC82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -173,6 +175,10 @@ Global
 		{677735DE-2F48-4DA2-9CD5-57C3DF90A9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{677735DE-2F48-4DA2-9CD5-57C3DF90A9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{677735DE-2F48-4DA2-9CD5-57C3DF90A9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D19B65A9-95F2-4DCC-879E-DB5E7B64CC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19B65A9-95F2-4DCC-879E-DB5E7B64CC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19B65A9-95F2-4DCC-879E-DB5E7B64CC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19B65A9-95F2-4DCC-879E-DB5E7B64CC82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -202,5 +208,9 @@ Global
 		{3FC80168-7489-4B8C-B8B3-5F8196F40F59} = {B7ADAFB4-4FD8-471D-A26A-8C72AAEFA86E}
 		{ED4BC764-D6C0-4F2A-AD54-8915E3133078} = {B7ADAFB4-4FD8-471D-A26A-8C72AAEFA86E}
 		{677735DE-2F48-4DA2-9CD5-57C3DF90A9BF} = {B7ADAFB4-4FD8-471D-A26A-8C72AAEFA86E}
+		{D19B65A9-95F2-4DCC-879E-DB5E7B64CC82} = {B7ADAFB4-4FD8-471D-A26A-8C72AAEFA86E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24423649-7348-47DE-B498-3C2E929729C9}
 	EndGlobalSection
 EndGlobal
