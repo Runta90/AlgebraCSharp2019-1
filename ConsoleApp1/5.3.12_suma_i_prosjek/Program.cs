@@ -10,18 +10,34 @@ namespace _5._3._12_suma_i_prosjek
     {
         static void Main(string[] args)
         {
-            int suma = 0;
-            float prosjek;
-
-            for (int i = 1; i <= 5; i++)
+            try
             {
-                Console.Write("Unesite {0}. prorodni broj: ", i.ToString());
-                suma += int.Parse(Console.ReadLine());
+                int suma = 0;
+                float prosjek;
+
+                for (int i = 1; i <= 5; i++)
+                {
+                    Console.Write("Unesite {0}. prirodni broj: ", i.ToString());
+                    suma += int.Parse(Console.ReadLine());
+                }
+
+                prosjek = (float)suma / 5;
+
+                Console.Write("Suma = {0} \nProsjek = {1}", suma, prosjek);
             }
 
-            prosjek = (float)suma / 5;
+            catch (FormatException fex)
+            {
+                Console.WriteLine("Greška: Nije unesen broj. " + fex.ToString());
+            }
 
-            Console.Write("Suma = {0} \nProsjek = {1}", suma, prosjek);
+            catch (Exception ex)
+            {
+                Console.WriteLine("Greška " + ex.ToString());
+            }
+
+
+
 
             Console.ReadKey();
 
