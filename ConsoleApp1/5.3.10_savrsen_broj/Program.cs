@@ -10,28 +10,44 @@ namespace _5._3._10_savrsen_broj
     {
         static void Main(string[] args)
         {
-            Console.Write("Unesite prirodan broj:");
-            int a = int.Parse(Console.ReadLine());
 
-            int broj = 0;
-
-            for (int i = 1; i < a; i++)
+            try
             {
-                if (a % i == 0)
+                Console.Write("Unesite prirodan broj:");
+                int a = int.Parse(Console.ReadLine());
+
+                int broj = 0;
+
+                for (int i = 1; i < a; i++)
                 {
-                    broj += i;
+                    if (a % i == 0)
+                    {
+                        broj += i;
 
+                    }
                 }
+
+
+                if (a == broj)
+                {
+                    Console.WriteLine("Unešeni broj je savršen.");
+                }
+
+                else
+                {
+                    Console.WriteLine("Unešeni broj nije savršen.");
+                }
+
             }
 
-            if (a == broj)
+            catch (FormatException fex)
             {
-                Console.WriteLine("Unešeni broj je savršen.");
+                Console.WriteLine("Krivi format unosa (nije unesen broj)" + fex.ToString());
             }
 
-            else
+            catch (Exception ex)
             {
-                Console.WriteLine("Unešeni broj nije savršen.");
+                Console.WriteLine("GREŠKA: uneseni broj nije ispravan" + ex.ToString());
             }
 
             Console.ReadKey();
