@@ -10,31 +10,44 @@ namespace _5._3._20_par_nepar
     {
         static void Main(string[] args)
         {
-            int brojParnih = 0;
-            int brojNeparnih = 0;
-            int broj = -1;
 
-            while (broj != 0)
+            try
             {
-                Console.Write("Unesite prirodan broj: ");
-                broj = int.Parse(Console.ReadLine());
+                int brojParnih = 0;
+                int brojNeparnih = 0;
+                int broj = -1;
 
-                if (broj != 0)
+                while (broj != 0)
                 {
-                    if (broj % 2 == 0)
+                    Console.Write("Unesite prirodan broj: ");
+                    broj = int.Parse(Console.ReadLine());
+
+                    if (broj != 0)
                     {
-                        brojParnih++;
-                    }
-                    else
-                    {
-                        brojNeparnih++; 
+                        if (broj % 2 == 0)
+                        {
+                            brojParnih++;
+                        }
+                        else
+                        {
+                            brojNeparnih++;
+                        }
                     }
                 }
+
+                Console.WriteLine("Parnih: " + brojParnih.ToString());
+                Console.WriteLine("Neparnih: " + brojNeparnih.ToString());
             }
 
-            Console.WriteLine("Parnih: " + brojParnih.ToString());
-            Console.WriteLine("Neparnih: " + brojNeparnih.ToString());
+            catch (FormatException fex)
+            {
+                Console.WriteLine("Greška: Nije unesen broj!" + fex.ToString());
+            }
 
+            catch (Exception ex)
+            {
+                Console.WriteLine("Greška!" + ex.ToString());
+            }
             Console.ReadKey();
         }
     }
