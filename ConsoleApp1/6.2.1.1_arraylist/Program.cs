@@ -28,6 +28,11 @@ namespace _6._2._1._1_arraylist
                 Console.WriteLine(arr[i]);
             }
 
+            foreach (int brojcic in arr)
+            {
+                Console.Write(" "+brojcic);
+            }
+
             Console.ReadKey();
 
         }
