@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.2.1.1_arraylist", "6.2.1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak6.1.2_niz", "zadatak6.1.2_niz\zadatak6.1.2_niz.csproj", "{C54A9F06-279A-468A-87C4-8DC848C830FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.2.3_generics", "6.2.3_generics\6.2.3_generics.csproj", "{3F0EBECD-0A45-4719-AF49-880DFE192DF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +251,10 @@ Global
 		{C54A9F06-279A-468A-87C4-8DC848C830FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C54A9F06-279A-468A-87C4-8DC848C830FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C54A9F06-279A-468A-87C4-8DC848C830FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F0EBECD-0A45-4719-AF49-880DFE192DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0EBECD-0A45-4719-AF49-880DFE192DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0EBECD-0A45-4719-AF49-880DFE192DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0EBECD-0A45-4719-AF49-880DFE192DF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -290,6 +296,7 @@ Global
 		{CE668E47-F40F-4D47-B798-A8D17426AA95} = {5A0B638C-D049-4E94-A57A-E9F8CC2490E3}
 		{50AAC063-CF20-4D3D-A0BE-7FFEA0604709} = {5A0B638C-D049-4E94-A57A-E9F8CC2490E3}
 		{C54A9F06-279A-468A-87C4-8DC848C830FF} = {5A0B638C-D049-4E94-A57A-E9F8CC2490E3}
+		{3F0EBECD-0A45-4719-AF49-880DFE192DF7} = {5A0B638C-D049-4E94-A57A-E9F8CC2490E3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {24423649-7348-47DE-B498-3C2E929729C9}
