@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak6.2.3_sort", "zadata
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak6.2.4_znamenke", "zadatak6.2.4_znamenke\zadatak6.2.4_znamenke.csproj", "{49C7F5C2-4B1D-435D-81BB-8D94398ADF9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak6.2.5_prosti_faktor", "zadatak6.2.5_prosti_faktor\zadatak6.2.5_prosti_faktor.csproj", "{88CE6029-DBC8-4626-9C35-1B320B40415E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{49C7F5C2-4B1D-435D-81BB-8D94398ADF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49C7F5C2-4B1D-435D-81BB-8D94398ADF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49C7F5C2-4B1D-435D-81BB-8D94398ADF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CE6029-DBC8-4626-9C35-1B320B40415E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CE6029-DBC8-4626-9C35-1B320B40415E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CE6029-DBC8-4626-9C35-1B320B40415E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CE6029-DBC8-4626-9C35-1B320B40415E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -318,6 +324,7 @@ Global
 		{2AF48E34-0581-447B-B665-237A1AEC9E1B} = {5A0B638C-D049-4E94-A57A-E9F8CC2490E3}
 		{271D1D88-E544-48EF-AB6D-2F4E05A07DEC} = {5A0B638C-D049-4E94-A57A-E9F8CC2490E3}
 		{49C7F5C2-4B1D-435D-81BB-8D94398ADF9A} = {5A0B638C-D049-4E94-A57A-E9F8CC2490E3}
+		{88CE6029-DBC8-4626-9C35-1B320B40415E} = {5A0B638C-D049-4E94-A57A-E9F8CC2490E3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {24423649-7348-47DE-B498-3C2E929729C9}
