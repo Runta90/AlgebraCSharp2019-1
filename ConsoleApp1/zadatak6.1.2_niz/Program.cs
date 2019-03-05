@@ -33,6 +33,7 @@ namespace zadatak6._1._2_niz
                 {
                     Console.Write(" " + niz[i]);
                 }
+
                 
                 
             }
