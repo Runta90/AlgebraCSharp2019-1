@@ -113,6 +113,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.2_objekti_primjer", "8.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.1_zadaca_proizvod", "8.1.1_zadaca_proizvod\8.1.1_zadaca_proizvod.csproj", "{530D0B87-2F50-4E3F-9C1F-84A353BB8D3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.2_zadaca_automobil", "8.1.2_zadaca_automobil\8.1.2_zadaca_automobil.csproj", "{D5B920B9-D418-4F68-9B2E-24D523A11425}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -307,6 +309,10 @@ Global
 		{530D0B87-2F50-4E3F-9C1F-84A353BB8D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{530D0B87-2F50-4E3F-9C1F-84A353BB8D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{530D0B87-2F50-4E3F-9C1F-84A353BB8D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B920B9-D418-4F68-9B2E-24D523A11425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B920B9-D418-4F68-9B2E-24D523A11425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B920B9-D418-4F68-9B2E-24D523A11425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B920B9-D418-4F68-9B2E-24D523A11425}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -357,6 +363,7 @@ Global
 		{2B3C44E1-BFE8-4E9D-BD10-1B0F23FDD5DD} = {5FA24AC6-939F-4138-9432-0A533F51F72B}
 		{F47C697A-A979-40F2-8AFD-7FF72F31EBE6} = {AB57F334-20C2-4264-93BB-A6BDFABE4C6E}
 		{530D0B87-2F50-4E3F-9C1F-84A353BB8D3C} = {AB57F334-20C2-4264-93BB-A6BDFABE4C6E}
+		{D5B920B9-D418-4F68-9B2E-24D523A11425} = {AB57F334-20C2-4264-93BB-A6BDFABE4C6E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {24423649-7348-47DE-B498-3C2E929729C9}
