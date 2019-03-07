@@ -10,7 +10,7 @@
 
         public Proizvod(string naziv)
         {
-            Naziv = naziv;
+            this.Naziv = naziv;
         }
         public double MPC()
         {
