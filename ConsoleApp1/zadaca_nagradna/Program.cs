@@ -40,23 +40,13 @@ namespace zadaca_nagradna
                 Console.WriteLine("Unesite broj telefona za: " + ucenik.Ime + " " + ucenik.Prezime);
                 ucenik.telefon = Console.ReadLine();
 
-                foreach (char c in ucenik.telefon)
-                {
-                    if (c < '0' || c > '9')
-                    {
-                        throw new Exception("Neispravan unos!");
-                    }
-                }
             }
 
             private static void UmanjiRacun(Ucenik ucenik)
             {
                 Console.WriteLine("Unesite iznos školarine za: " + ucenik.Ime + " " + ucenik.Prezime);
                 double iznosSkolarine = double.Parse(Console.ReadLine());
-                if (iznosSkolarine < 0)
-                {
-                    throw new Exception("Neispravan unos!");
-                }
+               
                 ucenik.Racun -= iznosSkolarine;
             }
 
