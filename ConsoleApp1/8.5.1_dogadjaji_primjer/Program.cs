@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace primjer_8._5._1
+namespace _8._5._1_dogadjaji_primjer
 {
     class Program
     {

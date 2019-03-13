@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace primjer_8._5._1
+namespace _8._5._1_dogadjaji_primjer
 {
     internal class Osoba
     {
