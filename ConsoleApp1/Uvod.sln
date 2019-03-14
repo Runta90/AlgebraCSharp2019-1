@@ -129,6 +129,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9_rad_s_tekstom", "9_rad_s_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.1.1_do_9.1.5_zadaci", "9.1.1_do_9.1.5_zadaci\9.1.1_do_9.1.5_zadaci.csproj", "{A98D0B9E-AB78-432C-BCA4-A72245E87798}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.1.6_palindrom_zadatak", "9.1.6_palindrom_zadatak\9.1.6_palindrom_zadatak.csproj", "{ADE2AFDF-BD19-44D4-BA10-DDA66B20FF46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -351,6 +353,10 @@ Global
 		{A98D0B9E-AB78-432C-BCA4-A72245E87798}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A98D0B9E-AB78-432C-BCA4-A72245E87798}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A98D0B9E-AB78-432C-BCA4-A72245E87798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE2AFDF-BD19-44D4-BA10-DDA66B20FF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE2AFDF-BD19-44D4-BA10-DDA66B20FF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE2AFDF-BD19-44D4-BA10-DDA66B20FF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE2AFDF-BD19-44D4-BA10-DDA66B20FF46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -408,6 +414,7 @@ Global
 		{1EA328EA-C4B6-45A9-BD71-D030A9DD7611} = {AB57F334-20C2-4264-93BB-A6BDFABE4C6E}
 		{EEB5245D-3C89-427E-8C16-B366C941E1DE} = {AB57F334-20C2-4264-93BB-A6BDFABE4C6E}
 		{A98D0B9E-AB78-432C-BCA4-A72245E87798} = {5D335474-B7CC-4A9A-B06D-CC96D173F388}
+		{ADE2AFDF-BD19-44D4-BA10-DDA66B20FF46} = {5D335474-B7CC-4A9A-B06D-CC96D173F388}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {24423649-7348-47DE-B498-3C2E929729C9}
