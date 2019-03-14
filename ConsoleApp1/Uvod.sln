@@ -135,6 +135,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vjezba", "vjezba", "{1A009D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.1_proizvod_ zbirka", "8.1.1_proizvod_ zbirka\8.1.1_proizvod_ zbirka.csproj", "{098499C8-D99C-4439-84C4-5966F57FD2BD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10_datoteke", "10_datoteke", "{EAFCA0E3-C571-416F-A3D2-BF2A765640B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.1.2_datoteke_primjer", "10.1.2_datoteke_primjer\10.1.2_datoteke_primjer.csproj", "{875F3D60-5E83-4CD0-89D5-AF4086761583}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -365,6 +369,10 @@ Global
 		{098499C8-D99C-4439-84C4-5966F57FD2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{098499C8-D99C-4439-84C4-5966F57FD2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{098499C8-D99C-4439-84C4-5966F57FD2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875F3D60-5E83-4CD0-89D5-AF4086761583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875F3D60-5E83-4CD0-89D5-AF4086761583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875F3D60-5E83-4CD0-89D5-AF4086761583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875F3D60-5E83-4CD0-89D5-AF4086761583}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -424,6 +432,7 @@ Global
 		{A98D0B9E-AB78-432C-BCA4-A72245E87798} = {5D335474-B7CC-4A9A-B06D-CC96D173F388}
 		{ADE2AFDF-BD19-44D4-BA10-DDA66B20FF46} = {5D335474-B7CC-4A9A-B06D-CC96D173F388}
 		{098499C8-D99C-4439-84C4-5966F57FD2BD} = {1A009DD6-5A2E-4B93-87B4-AD0A3D3A4F61}
+		{875F3D60-5E83-4CD0-89D5-AF4086761583} = {EAFCA0E3-C571-416F-A3D2-BF2A765640B0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {24423649-7348-47DE-B498-3C2E929729C9}
