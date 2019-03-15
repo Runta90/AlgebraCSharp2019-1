@@ -141,6 +141,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.1.2_datoteke_primjer", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.1.2_3-7_zadatak", "10.1.2_3-7_zadatak\10.1.2_3-7_zadatak.csproj", "{73EEF5E6-84C6-4DCA-8976-3499B013251B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12_datumi", "12_datumi", "{9D969619-53E6-4CBB-A720-5793D2B6F88C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.2.2_datumi_primjer", "12.2.2_datumi_primjer\12.2.2_datumi_primjer.csproj", "{04C130FC-C529-45DD-8718-CEF3767D9144}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -379,6 +383,10 @@ Global
 		{73EEF5E6-84C6-4DCA-8976-3499B013251B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73EEF5E6-84C6-4DCA-8976-3499B013251B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73EEF5E6-84C6-4DCA-8976-3499B013251B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C130FC-C529-45DD-8718-CEF3767D9144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C130FC-C529-45DD-8718-CEF3767D9144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C130FC-C529-45DD-8718-CEF3767D9144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C130FC-C529-45DD-8718-CEF3767D9144}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -440,6 +448,7 @@ Global
 		{098499C8-D99C-4439-84C4-5966F57FD2BD} = {1A009DD6-5A2E-4B93-87B4-AD0A3D3A4F61}
 		{875F3D60-5E83-4CD0-89D5-AF4086761583} = {EAFCA0E3-C571-416F-A3D2-BF2A765640B0}
 		{73EEF5E6-84C6-4DCA-8976-3499B013251B} = {EAFCA0E3-C571-416F-A3D2-BF2A765640B0}
+		{04C130FC-C529-45DD-8718-CEF3767D9144} = {9D969619-53E6-4CBB-A720-5793D2B6F88C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {24423649-7348-47DE-B498-3C2E929729C9}
